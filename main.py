@@ -1,3 +1,4 @@
+# Problem: Find the cost of the min spanning tree in a giving graph using Prim's Algorithm
 class Graph:
     def __init__(self, nodes):
         self.N = nodes
